@@ -22,11 +22,13 @@ a cursos em diversas áreas de tecnologia e idiomas (inglês e espanhol)..
 - Google Fonts : Utilização da fonte "Inter" para uma tipografia limpa e moderna.
 
 📂 Estrutura de Arquivos
+
 index.html: O arquivo principal da página.
 style.css: O arquivo de estilo CSS que define o layout e design da página.
 img/: Pasta contendo as imagens usadas na página.
 
 📜 Contexto do Projeto
+
 Este projeto foi desenvolvido durante o curso Curso Alura - Front-end: Criação de páginas web responsivas , com foco em aplicar os conceitos aprendidos sobre HTML, CSS, e design responsivo. Durante o curso, foram abordados temas como:
 
 - Criação de layouts responsivos.
